@@ -1,7 +1,18 @@
 # Profile
 
-Profile Page - about me and my featured works.
-Provides a breif detail about my experience and skillset.
+A Personal Portfolio Website
+
+This project is a personal portfolio website that showcases my about me and my featured works. It provides a brief detail about my experience and skillset in web development, data science, and machine learning.
+
+Here's a live deployment - https://amritha-07.github.io/Profile/
+
+<center>
+    <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
+</center>
+
+<center>
+    <img src='img/snap_2.png' alt='image' width='90%' name='snap_2'/>
+</center>
 
 ## Tech-Stack
 
@@ -9,10 +20,10 @@ Provides a breif detail about my experience and skillset.
 - CSS
 - JavaScript
 
-## Deployment
+## Installation and Usage
 
-Here's a live deployment - https://amritha-07.github.io/Profile/
+To install and run this project, you need to have a web browser (such as Chrome or Firefox) that supports HTML, CSS, and JavaScript.
 
-![image](https://github.com/Amritha-07/Profile/assets/74042644/a712f502-3b1a-4133-996f-ec137842b144)
+To download the code and assets for this project, you can clone this GitHub repository using the following command:
 
-![image](https://github.com/Amritha-07/Profile/assets/74042644/9e713ab0-e0a9-45f2-9518-8c81b7bb3f0a)
+```git clone https://github.com/Amritha-07/Profile.git```
